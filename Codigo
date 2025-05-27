@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "nombre":"Marco Negro" ,
+    "precio":"650",
+    "disponible":true,
+    "imagenUrl":"https://raw.githubusercontent.com/Rodolfo-Casillas-1054/tiendamarcos_imagenes_app_flutter/refs/heads/main/iossss.png",
+  },
+  {
+    "id":2,
+    "nombre":"WAX" ,
+    "precio":"500",
+    "disponible":true,
+    "imagenUrl":"https://raw.githubusercontent.com/Carlos-Melgar-1079/TiendaNaturalista_imagen_appflutter/refs/heads/main/p1.webp",
+  },
+  {
+    "id":3,
+    "nombre":"gomitas" ,
+    "precio":"700",
+    "disponible":true,
+    "imagenUrl":"https://raw.githubusercontent.com/Carlos-Melgar-1079/TiendaNaturalista_imagen_appflutter/refs/heads/main/p3.webp",
+  },
+]
